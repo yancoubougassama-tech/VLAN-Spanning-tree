@@ -29,6 +29,7 @@ Modes VTP
 Bridge ID et priorité
 - Root bridge par VLAN
 - Modification du root bridge
+
 Rôles des ports
 - Root Port
 - Designated Port
